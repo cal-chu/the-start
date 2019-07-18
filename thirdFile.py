@@ -1,0 +1,1 @@
+print("The end of the world is neigh")
